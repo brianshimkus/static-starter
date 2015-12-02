@@ -1,2 +1,3 @@
-# static-starter
-Static starter skeleton using Middleman
+# [Static Starter]
+
+Static starter skeleton using [Middleman](https://middlemanapp.com/).
